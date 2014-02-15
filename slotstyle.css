@@ -1,0 +1,19 @@
+body {
+	background-color: white;
+}
+
+table {
+	border: 1px solid black;
+	width: auto;
+	margin: 0 auto;
+}
+
+td {
+	border: 1px solid black;
+	height: 1em;
+	width: 1em;
+}
+
+.hit {
+	background-color: SteelBlue;
+}
