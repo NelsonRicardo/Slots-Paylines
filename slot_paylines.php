@@ -9,7 +9,7 @@
 
 	<body>
 
-		<h2>Nelson Ricardo: Multi-line Slot Machine Paylines<br />(5 reels, 3 positions per reel, 243 lines total)</h2>
+		<h2>Nelson Ricardo: Multi-line Slot Machine Paylines<br/>(5 reels, 3 positions per reel, 243 lines total)</h2>
 
 <?php
 for ($A = 11; $A <= 13; $A++) {
